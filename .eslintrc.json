@@ -34,7 +34,7 @@
 			"error",
 			{
 				"singleQuote": false,
-				"jsxBracketSameLine": false,
+				"bracketSameLine": false,
 				"endOfLine": "auto"
 			}
 		],
