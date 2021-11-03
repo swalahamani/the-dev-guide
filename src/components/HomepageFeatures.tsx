@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-props-no-spreading */
+/* eslint-disable react/no-array-index-key */
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -66,9 +68,9 @@ export default function HomepageFeatures(): JSX.Element {
 		<section className={styles.features}>
 			<div className="container">
 				<div className="row">
-					{FeatureList.map((props, idx) => (
-						<Feature key={idx} {...props} />
-					))}
+					{FeatureList.map((props, idx) => {
+						return <Feature key={idx} {...props} />;
+					})}
 				</div>
 			</div>
 		</section>
