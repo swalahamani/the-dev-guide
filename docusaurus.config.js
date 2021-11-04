@@ -27,12 +27,6 @@ const config = {
 					editUrl:
 						"https://github.com/swalahamani/the-dev-guide/edit/main/website/",
 				},
-				blog: {
-					showReadingTime: true,
-					// Please change this to your repo.
-					editUrl:
-						"https://github.com/swalahamani/the-dev-guide/edit/main/website/blog/",
-				},
 				theme: {
 					customCss: require.resolve("./src/css/custom.css"),
 				},
@@ -56,7 +50,7 @@ const config = {
 						position: "left",
 						label: "Tutorial",
 					},
-					{to: "/blog", label: "Blog", position: "left"},
+					{to: "https://canal.swalah.co/blog", label: "Blog", position: "left"},
 					{
 						href: "https://github.com/swalahamani/the-dev-guide",
 						label: "GitHub",
@@ -98,7 +92,7 @@ const config = {
 						items: [
 							{
 								label: "Blog",
-								to: "/blog",
+								to: "https://canal.swalah.co/blog",
 							},
 							{
 								label: "GitHub",
