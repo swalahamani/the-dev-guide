@@ -15,6 +15,7 @@ const config = {
 	favicon: "img/favicon.ico",
 	organizationName: "swalahamani", // Usually your GitHub org/user name.
 	projectName: "the-dev-guide", // Usually your repo name.
+	trailingSlash: false,
 
 	i18n: {
 		defaultLocale: "en",
