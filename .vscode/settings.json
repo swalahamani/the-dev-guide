@@ -18,5 +18,5 @@
 	"[json]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"cSpell.words": ["browserslist", "clsx", "commitlint", "typecheck"]
+	"cSpell.words": ["Amani", "browserslist", "clsx", "commitlint", "typecheck"]
 }
