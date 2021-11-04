@@ -9,7 +9,7 @@ const config = {
 	title: "The Dev Guide",
 	tagline: "A Comprehensive Guide for Developers by Yet Another Developer",
 	url: "https://thedevguide.swalahamani.com",
-	baseUrl: "/",
+	baseUrl: "/the-dev-guide/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
