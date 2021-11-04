@@ -53,7 +53,7 @@ const config = {
 						type: "doc",
 						docId: "intro",
 						position: "left",
-						label: "Tutorial",
+						label: "Dev Guide",
 					},
 					{to: "https://canal.swalah.co/blog", label: "Blog", position: "left"},
 					{
