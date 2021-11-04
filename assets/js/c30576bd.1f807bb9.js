@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_work_book=self.webpackChunkthe_work_book||[]).push([[580],{2821:function(o){o.exports={blogPosts:[]}}}]);
