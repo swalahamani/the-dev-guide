@@ -16,6 +16,11 @@ const config = {
 	organizationName: "swalahamani", // Usually your GitHub org/user name.
 	projectName: "the-dev-guide", // Usually your repo name.
 
+	i18n: {
+		defaultLocale: "en",
+		locales: ["en"],
+	},
+
 	presets: [
 		[
 			"@docusaurus/preset-classic",
